@@ -2,7 +2,7 @@
 
 A BootStrap4 template website created using sass html and bootstrap.
 
-https://mateencode.github.io/MizuxeBookClub-BootStrap4/
+http://book-clubz.surge.sh/
 
 # ScreenShot
 
